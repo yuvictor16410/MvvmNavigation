@@ -50,7 +50,7 @@ fun Preview_HomeScreen(){
                 },
                 buttonText = "Go to Details Screen"
             ),
-            countDownTimer = "10"
+            countDownTimer = "20"
         )
     )
 }
